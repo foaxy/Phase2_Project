@@ -1,4 +1,7 @@
 # Predicting House Prices and Identifying Key Value Drivers in King County
+
+![home](https://github.com/foaxy/Phase2_Project/blob/main/Images/home.jpg)
+
 ## Business Understanding
 
 The BlueWave real estate agency aims to leverage the King County House Sales dataset to gain valuable insights into the factors that influence house prices and provide informed recommendations to homeowners, buyers, and sellers. By analyzing the dataset's various attributes, such as the number of bedrooms, bathrooms, square footage of living space, condition, and grade of the house, the agency intends to address key challenges in the real estate market and enhance its services.
@@ -76,3 +79,7 @@ Based on these findings, the real estate agency should consider the following re
 - **Promote Proper Maintenance:** Educate homeowners on the importance of regular maintenance and timely repairs. Encourage them to address any issues promptly to preserve the condition of their properties. This will help maintain the market value and prevent potential price depreciation due to neglect or deterioration.
 
 By focusing on these recommendations, the real estate agency can help homeowners maximize their property values and assist buyers in finding houses with desirable features.
+
+## Non-Technical Presentation
+
+Click here to view the non-technical presentation.
