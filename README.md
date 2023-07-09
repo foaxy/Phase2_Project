@@ -82,4 +82,4 @@ By focusing on these recommendations, the real estate agency can help homeowners
 
 ## Non-Technical Presentation
 
-Click here[link](https://docs.google.com/presentation/d/1Sgbs_X1BPQPpGx0ROMIyjm3qvhVgisnv88GU7RviOTM/edit?usp=sharing) to view the non-technical presentation.
+Click here ![link](https://docs.google.com/presentation/d/1Sgbs_X1BPQPpGx0ROMIyjm3qvhVgisnv88GU7RviOTM/edit?usp=sharing) to view the non-technical presentation.
