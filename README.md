@@ -1,4 +1,4 @@
-# Predicting House Prices and Identifying Key Value Drivers in King County¶
+# Predicting House Prices and Identifying Key Value Drivers in King County
 ## Business Understanding
 
 The real estate agency aims to leverage the King County House Sales dataset to gain valuable insights into the factors that influence house prices and provide informed recommendations to homeowners, buyers, and sellers. By analyzing the dataset's various attributes, such as the number of bedrooms, bathrooms, square footage of living space, condition, and grade of the house, the agency intends to address key challenges in the real estate market and enhance its services.
